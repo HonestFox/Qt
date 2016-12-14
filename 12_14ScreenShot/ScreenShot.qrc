@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="ScreenShot">
+    <file>Resources/Save.png</file>
+    <file>Resources/Shot.png</file>
+  </qresource>
+</RCC>
